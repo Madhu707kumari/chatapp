@@ -46,7 +46,7 @@ function LoginPage() {
                     </div>
                   </div>
 
-                  {/* PASSWORD INPUT */}
+                  {/* PASSWORD INPUT............. */}
                   <div>
                     <label className="auth-input-label">Password</label>
                     <div className="relative">
